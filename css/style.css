@@ -23,10 +23,28 @@ nav {
 h5 {
   padding-bottom: 5px;
 }
+
+
+.warning-section{
+  margin-bottom: 80px;
+}
+
+.warning-div{
+  margin-top: 80px;
+}
+
+.warning-risk {
+  position: absolute;
+  top: -27%;
+  left: 7%;
+  font-weight: bold;
+}
+
+
 .warning-btn {
   position: absolute;
   top: -10%;
-  left: 20%;
+  left: 7%;
   font-weight: bold;
 }
 
