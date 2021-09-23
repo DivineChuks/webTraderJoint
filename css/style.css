@@ -25,8 +25,8 @@ h5 {
 }
 .warning-btn {
   position: absolute;
-  top: -30%;
-  left: 40%;
+  top: -10%;
+  left: 20%;
   font-weight: bold;
 }
 
@@ -75,6 +75,13 @@ footer {
   .logo {
     margin-left: 26px;
   }
+
+  .warning-btn {
+  position: absolute;
+  top: -7%;
+  left: 10%;
+  font-weight: bold;
+}
 
   .register {
     margin-right: 10px;
