@@ -94,6 +94,14 @@ footer {
     margin-left: 26px;
   }
 
+  .warning-risk {
+  position: absolute;
+  top: -23%;
+  left: 10%;
+  font-weight: bold;
+}
+
+
   .warning-btn {
   position: absolute;
   top: -7%;
@@ -101,17 +109,17 @@ footer {
   font-weight: bold;
 }
 
-  .register {
+.register {
     margin-right: 10px;
   }
- .copy{
+.copy{
     padding-top: 5px !important;
   }
-  .copy a {
+.copy a {
     display: none;
   }
 
-  .copy small {
+.copy small {
     font-size: 11.5px;
   }
 
